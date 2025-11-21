@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Editor
+.idea/
+.vscode/
+
+# Go build
+bin/
+pkg/
+dist/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+*.coverprofile
+*.log
+
+# Dependencies
+vendor/
+
+# Environment
+.env
